@@ -71,7 +71,7 @@ if a node fails, take a look at how to restart it, also you can restart the rabb
 
 
 ## References
-* [[Rabbit]]
+
 * http://www.rabbitmq.com/man/rabbitmqctl.1.man.html
 * http://www.rabbitmq.com/management.html
 * http://stackoverflow.com/questions/8737754/node-with-name-rabbit-already-running-but-also-unable-to-connect-to-node
